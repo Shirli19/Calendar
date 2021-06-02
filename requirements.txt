@@ -54,7 +54,7 @@ sqlparse==0.3.1
 stats==0.1.2a0
 statsmodels==0.11.0
 traitlets==4.3.3
-urllib3==1.25.8
+urllib3==1.26.5
 virtualenv==20.0.27
 Werkzeug==1.0.0
 whitenoise==5.1.0
